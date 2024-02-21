@@ -1,3 +1,14 @@
+// Write a program to print the sum of given range of numbers.
+
+// Sample Input:
+// 5
+
+// 10
+
+// Sample Output:
+
+// 45
+
 #include<iostream>
 using namespace std;
 int main()
